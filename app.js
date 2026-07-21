@@ -20,7 +20,7 @@ async function loadData() {
     console.log("Trạng thái:", response.status);
 
     sentences = await response.json();
-    alert(sentences[0].vietnamese);
+    alert("TEST HSK");
 
     console.log("Số câu:", sentences.length);
 
