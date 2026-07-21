@@ -1,0 +1,252 @@
+[
+  {
+    "vietnamese": "Hôm nay bạn có bận không?",
+    "chinese": "你今天忙吗？",
+    "pinyin": "Nǐ jīntiān máng ma?"
+  },
+  {
+    "vietnamese": "Tôi không bận.",
+    "chinese": "我不忙。",
+    "pinyin": "Wǒ bù máng."
+  },
+  {
+    "vietnamese": "Bạn đang đợi ai?",
+    "chinese": "你在等谁？",
+    "pinyin": "Nǐ zài děng shéi?"
+  },
+  {
+    "vietnamese": "Tôi đang đợi bạn.",
+    "chinese": "我在等你。",
+    "pinyin": "Wǒ zài děng nǐ."
+  },
+  {
+    "vietnamese": "Bạn có thể giúp tôi không?",
+    "chinese": "你可以帮我吗？",
+    "pinyin": "Nǐ kěyǐ bāng wǒ ma?"
+  },
+  {
+    "vietnamese": "Đương nhiên có thể.",
+    "chinese": "当然可以。",
+    "pinyin": "Dāngrán kěyǐ."
+  },
+  {
+    "vietnamese": "Bạn nói rất nhanh.",
+    "chinese": "你说得很快。",
+    "pinyin": "Nǐ shuō de hěn kuài."
+  },
+  {
+    "vietnamese": "Xin hãy nói chậm một chút.",
+    "chinese": "请说慢一点儿。",
+    "pinyin": "Qǐng shuō màn yìdiǎnr."
+  },
+  {
+    "vietnamese": "Tôi đang học lái xe.",
+    "chinese": "我在学开车。",
+    "pinyin": "Wǒ zài xué kāichē."
+  },
+  {
+    "vietnamese": "Bạn học tiếng Trung được bao lâu rồi?",
+    "chinese": "你学中文学了多久？",
+    "pinyin": "Nǐ xué Zhōngwén xué le duōjiǔ?"
+  },
+  {
+    "vietnamese": "Tôi học được hai năm rồi.",
+    "chinese": "我学了两年了。",
+    "pinyin": "Wǒ xué le liǎng nián le."
+  },
+  {
+    "vietnamese": "Tôi thích nghe nhạc.",
+    "chinese": "我喜欢听音乐。",
+    "pinyin": "Wǒ xǐhuan tīng yīnyuè."
+  },
+  {
+    "vietnamese": "Em gái tôi rất thông minh.",
+    "chinese": "我妹妹很聪明。",
+    "pinyin": "Wǒ mèimei hěn cōngming."
+  },
+  {
+    "vietnamese": "Hôm qua tôi không đi làm.",
+    "chinese": "昨天我没去上班。",
+    "pinyin": "Zuótiān wǒ méi qù shàngbān."
+  },
+  {
+    "vietnamese": "Ngày mai chúng ta cùng đi nhé.",
+    "chinese": "明天我们一起去吧。",
+    "pinyin": "Míngtiān wǒmen yìqǐ qù ba."
+  },
+  {
+    "vietnamese": "Bên ngoài đang mưa.",
+    "chinese": "外边下雨了。",
+    "pinyin": "Wàibian xiàyǔ le."
+  },
+  {
+    "vietnamese": "Nhớ mang ô.",
+    "chinese": "别忘了带伞。",
+    "pinyin": "Bié wàng le dài sǎn."
+  },
+  {
+    "vietnamese": "Tôi muốn mua một chiếc điện thoại.",
+    "chinese": "我想买一部手机。",
+    "pinyin": "Wǒ xiǎng mǎi yí bù shǒujī."
+  },
+  {
+    "vietnamese": "Chiếc điện thoại này rất đẹp.",
+    "chinese": "这部手机很漂亮。",
+    "pinyin": "Zhè bù shǒujī hěn piàoliang."
+  },
+  {
+    "vietnamese": "Bạn thường dậy lúc mấy giờ?",
+    "chinese": "你一般几点起床？",
+    "pinyin": "Nǐ yìbān jǐ diǎn qǐchuáng?"
+  },
+  {
+    "vietnamese": "Tôi thường dậy lúc 7 giờ.",
+    "chinese": "我一般七点起床。",
+    "pinyin": "Wǒ yìbān qī diǎn qǐchuáng."
+  },
+  {
+    "vietnamese": "Hôm nay lạnh hơn hôm qua.",
+    "chinese": "今天比昨天冷。",
+    "pinyin": "Jīntiān bǐ zuótiān lěng."
+  },
+  {
+    "vietnamese": "Tôi cảm thấy hơi mệt.",
+    "chinese": "我觉得有一点儿累。",
+    "pinyin": "Wǒ juéde yǒu yìdiǎnr lèi."
+  },
+  {
+    "vietnamese": "Chúc bạn sinh nhật vui vẻ.",
+    "chinese": "祝你生日快乐。",
+    "pinyin": "Zhù nǐ shēngrì kuàilè."
+  },
+  {
+    "vietnamese": "Hy vọng sớm gặp lại bạn.",
+    "chinese": "希望很快再见到你。",
+    "pinyin": "Xīwàng hěn kuài zài jiàn dào nǐ."
+  }
+],
+  {
+    "vietnamese": "Hôm nay tôi đến sớm.",
+    "chinese": "今天我来得很早。",
+    "pinyin": "Jīntiān wǒ lái de hěn zǎo."
+  },
+  {
+    "vietnamese": "Anh ấy chạy rất nhanh.",
+    "chinese": "他跑得很快。",
+    "pinyin": "Tā pǎo de hěn kuài."
+  },
+  {
+    "vietnamese": "Tôi chưa ăn sáng.",
+    "chinese": "我还没吃早饭。",
+    "pinyin": "Wǒ hái méi chī zǎofàn."
+  },
+  {
+    "vietnamese": "Bạn muốn uống gì?",
+    "chinese": "你想喝点儿什么？",
+    "pinyin": "Nǐ xiǎng hē diǎnr shénme?"
+  },
+  {
+    "vietnamese": "Tôi chỉ muốn uống nước.",
+    "chinese": "我只想喝水。",
+    "pinyin": "Wǒ zhǐ xiǎng hē shuǐ."
+  },
+  {
+    "vietnamese": "Hôm nay có rất nhiều người.",
+    "chinese": "今天有很多人。",
+    "pinyin": "Jīntiān yǒu hěn duō rén."
+  },
+  {
+    "vietnamese": "Tôi thích thành phố này.",
+    "chinese": "我喜欢这个城市。",
+    "pinyin": "Wǒ xǐhuan zhège chéngshì."
+  },
+  {
+    "vietnamese": "Bạn có thường tập thể dục không?",
+    "chinese": "你常常运动吗？",
+    "pinyin": "Nǐ chángcháng yùndòng ma?"
+  },
+  {
+    "vietnamese": "Tôi chạy bộ mỗi sáng.",
+    "chinese": "我每天早上跑步。",
+    "pinyin": "Wǒ měitiān zǎoshang pǎobù."
+  },
+  {
+    "vietnamese": "Mẹ tôi đang nấu ăn.",
+    "chinese": "我妈妈在做饭。",
+    "pinyin": "Wǒ māma zài zuòfàn."
+  },
+  {
+    "vietnamese": "Bố tôi đang xem tivi.",
+    "chinese": "我爸爸在看电视。",
+    "pinyin": "Wǒ bàba zài kàn diànshì."
+  },
+  {
+    "vietnamese": "Tôi muốn học thêm tiếng Trung.",
+    "chinese": "我想继续学中文。",
+    "pinyin": "Wǒ xiǎng jìxù xué Zhōngwén."
+  },
+  {
+    "vietnamese": "Xin hãy đợi tôi một lát.",
+    "chinese": "请等我一下。",
+    "pinyin": "Qǐng děng wǒ yíxià."
+  },
+  {
+    "vietnamese": "Tôi sắp đến rồi.",
+    "chinese": "我快到了。",
+    "pinyin": "Wǒ kuài dào le."
+  },
+  {
+    "vietnamese": "Bạn có rảnh vào cuối tuần không?",
+    "chinese": "你周末有空吗？",
+    "pinyin": "Nǐ zhōumò yǒu kòng ma?"
+  },
+  {
+    "vietnamese": "Chúng ta cùng đi xem phim nhé.",
+    "chinese": "我们一起去看电影吧。",
+    "pinyin": "Wǒmen yìqǐ qù kàn diànyǐng ba."
+  },
+  {
+    "vietnamese": "Bộ phim rất thú vị.",
+    "chinese": "电影很有意思。",
+    "pinyin": "Diànyǐng hěn yǒu yìsi."
+  },
+  {
+    "vietnamese": "Tôi rất thích bài hát này.",
+    "chinese": "我很喜欢这首歌。",
+    "pinyin": "Wǒ hěn xǐhuan zhè shǒu gē."
+  },
+  {
+    "vietnamese": "Bạn nói tiếng Trung rất tốt.",
+    "chinese": "你的中文说得很好。",
+    "pinyin": "Nǐ de Zhōngwén shuō de hěn hǎo."
+  },
+  {
+    "vietnamese": "Tôi vẫn đang cố gắng học.",
+    "chinese": "我还在努力学习。",
+    "pinyin": "Wǒ hái zài nǔlì xuéxí."
+  },
+  {
+    "vietnamese": "Hôm nay tôi rất vui.",
+    "chinese": "今天我非常高兴。",
+    "pinyin": "Jīntiān wǒ fēicháng gāoxìng."
+  },
+  {
+    "vietnamese": "Cảm ơn sự giúp đỡ của bạn.",
+    "chinese": "谢谢你的帮助。",
+    "pinyin": "Xièxie nǐ de bāngzhù."
+  },
+  {
+    "vietnamese": "Không cần khách sáo.",
+    "chinese": "不用客气。",
+    "pinyin": "Búyòng kèqi."
+  },
+  {
+    "vietnamese": "Chúc bạn một ngày tốt lành.",
+    "chinese": "祝你今天愉快。",
+    "pinyin": "Zhù nǐ jīntiān yúkuài."
+  },
+  {
+    "vietnamese": "Hẹn gặp lại lần sau.",
+    "chinese": "下次见。",
+    "pinyin": "Xià cì jiàn."
+  }
