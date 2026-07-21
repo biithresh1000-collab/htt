@@ -54,7 +54,17 @@ document.getElementById("checkBtn").onclick = ()=>{
 
     let s = sentences[index];
 
-    if(answer.value.trim() == s.chinese){
+    function normalize(text){
+        return text
+            .replace(/[。！？，、,.!?]/g,"")
+            .replace(/\s+/g,"")
+            .trim();
+    }
+
+    let userAnswer = normalize(answer.value);
+    let correctAnswer = normalize(s.chinese);
+
+    if(userAnswer == correctAnswer){
 
         result.innerHTML="✅ Đúng";
 
