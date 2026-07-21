@@ -14,11 +14,14 @@ async function loadData(){
 
     sentences = await res.json();
 
+    alert("Số câu: " + sentences.length);
+
     index = 0;
 
     show();
 
 }
+
 
 
 function show(){
