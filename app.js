@@ -16,13 +16,21 @@ async function loadData() {
 
     const response = await fetch(file);
 
+    console.log("Đang tải:", file);
+    console.log("Trạng thái:", response.status);
+
     sentences = await response.json();
+    alert(sentences[0].vietnamese);
+
+    console.log("Số câu:", sentences.length);
 
     currentIndex = 0;
+
 
     showSentence();
 
 }
+
 
 function showSentence() {
 
