@@ -8,22 +8,34 @@ const resultEl = document.getElementById("result");
 const listenBtn = document.getElementById("listenBtn");
 const checkBtn = document.getElementById("checkBtn");
 const nextBtn = document.getElementById("nextBtn");
+const levelSelect = document.getElementById("level");
 
 async function loadData() {
-    const response = await fetch("data.json");
+
+    const file = levelSelect.value;
+
+    const response = await fetch(file);
+
     sentences = await response.json();
 
     currentIndex = 0;
+
     showSentence();
+
 }
 
 function showSentence() {
+
+    if (sentences.length === 0) return;
+
     const sentence = sentences[currentIndex];
 
     vietnameseEl.textContent = sentence.vietnamese;
 
     answerInput.value = "";
+
     resultEl.innerHTML = "";
+
 }
 
 listenBtn.onclick = () => {
@@ -47,29 +59,30 @@ checkBtn.onclick = () => {
     const sentence = sentences[currentIndex];
 
     const userAnswer = answerInput.value.trim();
-const correctAnswer = sentence.chinese
-    .replace(/[。！？，、,.!?]/g, "")
-    .trim();
 
-const userText = userAnswer
-    .replace(/[。！？，、,.!?]/g, "")
-    .trim();
+    const correctAnswer = sentence.chinese
+        .replace(/[。！？，、,.!?]/g, "")
+        .trim();
+
+    const userText = userAnswer
+        .replace(/[。！？，、,.!?]/g, "")
+        .trim();
+
     if (userText === correctAnswer) {
 
         resultEl.innerHTML = "✅ Chính xác!";
 
     } else {
 
-        resultEl.innerHTML =
-            `
-            ❌ Sai<br><br>
+        resultEl.innerHTML = `
+        ❌ Sai<br><br>
 
-            <b>Đáp án:</b><br>
-            ${sentence.chinese}<br><br>
+        <b>Đáp án:</b><br>
+        ${sentence.chinese}<br><br>
 
-            <b>Pinyin:</b><br>
-            ${sentence.pinyin}
-            `;
+        <b>Pinyin:</b><br>
+        ${sentence.pinyin}
+        `;
 
     }
 
@@ -88,5 +101,7 @@ nextBtn.onclick = () => {
     showSentence();
 
 };
+
+levelSelect.onchange = loadData;
 
 loadData();
