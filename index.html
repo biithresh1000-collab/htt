@@ -1,56 +1,37 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luyện tiếng Trung</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<title>Luyện tiếng Trung</title>
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div class="container">
+<h1>📖 Luyện tiếng Trung</h1>
 
-    <h1>📖 Luyện tiếng Trung</h1>
+<select id="level">
+    <option value="hsk1.json">HSK 1</option>
+    <option value="hsk2.json">HSK 2</option>
+    <option value="hsk3.json">HSK 3</option>
+    <option value="hsk4.json">HSK 4</option>
+    <option value="hsk5.json">HSK 5</option>
+    <option value="hsk6.json">HSK 6</option>
+</select>
 
-    <label><b>Chọn cấp độ HSK:</b></label>
+<h3>Tiếng Việt:</h3>
+<p id="vietnamese"></p>
 
-    <select id="level">
-        <option value="hsk1.json">HSK 1</option>
-        <option value="hsk2.json">HSK 2</option>
-        <option value="hsk3.json">HSK 3</option>
-        <option value="hsk4.json">HSK 4</option>
-        <option value="hsk5.json">HSK 5</option>
-        <option value="hsk6.json">HSK 6</option>
-    </select>
+<button id="listenBtn">🔊 Nghe tiếng Trung</button>
 
-    <div class="card">
+<input id="answer" placeholder="Nhập tiếng Trung">
 
-        <h3>Câu tiếng Việt</h3>
+<button id="checkBtn">Kiểm tra</button>
+<button id="nextBtn">Câu tiếp</button>
 
-        <p id="vietnamese"></p>
+<p id="result"></p>
 
-        <button id="listenBtn">
-            🔊 Nghe tiếng Trung
-        </button>
-
-        <input
-            type="text"
-            id="answer"
-            placeholder="Nhập tiếng Trung..."
-        >
-
-        <div class="buttons">
-            <button id="checkBtn">Kiểm tra</button>
-            <button id="nextBtn">Câu tiếp</button>
-        </div>
-
-        <div id="result"></div>
-
-    </div>
-
-</div>
-
-<script src="app.js"></script>
+<script src="app.js?v=3"></script>
 
 </body>
 </html>
