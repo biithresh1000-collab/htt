@@ -14,7 +14,7 @@ async function loadData() {
 
     const file = levelSelect.value;
 
-    const response = await fetch(file);
+    const response = await fetch(file + "?v=2");
 
     console.log("Đang tải:", file);
     console.log("Trạng thái:", response.status);
