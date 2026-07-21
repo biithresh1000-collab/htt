@@ -1,116 +1,72 @@
 let sentences = [];
-let currentIndex = 0;
+let index = 0;
 
-const vietnameseEl = document.getElementById("vietnamese");
-const answerInput = document.getElementById("answer");
-const resultEl = document.getElementById("result");
+const level = document.getElementById("level");
+const vietnamese = document.getElementById("vietnamese");
+const answer = document.getElementById("answer");
+const result = document.getElementById("result");
 
-const listenBtn = document.getElementById("listenBtn");
-const checkBtn = document.getElementById("checkBtn");
-const nextBtn = document.getElementById("nextBtn");
-const levelSelect = document.getElementById("level");
+async function loadData(){
 
-async function loadData() {
+    let file = level.value;
 
-    const file = levelSelect.value;
+    let res = await fetch(file);
 
-    const response = await fetch(file + "?v=2");
+    sentences = await res.json();
 
-    console.log("Đang tải:", file);
-    console.log("Trạng thái:", response.status);
+    index = 0;
 
-    sentences = await response.json();
-    alert("TEST HSK");
-
-    console.log("Số câu:", sentences.length);
-
-    currentIndex = 0;
-
-
-    showSentence();
+    show();
 
 }
 
 
-function showSentence() {
+function show(){
 
-    if (sentences.length === 0) return;
+    let s = sentences[index];
 
-    const sentence = sentences[currentIndex];
-    console.log(sentence);
+    vietnamese.innerHTML = s.vietnamese;
 
-    vietnameseEl.textContent = sentence.vietnamese;
+    answer.value = "";
 
-    answerInput.value = "";
-
-    resultEl.innerHTML = "";
+    result.innerHTML = "";
 
 }
 
-listenBtn.onclick = () => {
 
-    const sentence = sentences[currentIndex];
+document.getElementById("nextBtn").onclick = ()=>{
 
-    speechSynthesis.cancel();
+    index++;
 
-    const speech = new SpeechSynthesisUtterance(sentence.chinese);
+    if(index >= sentences.length){
+        index = 0;
+    }
 
-    speech.lang = "zh-CN";
-
-    speech.rate = 0.9;
-
-    speechSynthesis.speak(speech);
+    show();
 
 };
 
-checkBtn.onclick = () => {
 
-    const sentence = sentences[currentIndex];
+document.getElementById("checkBtn").onclick = ()=>{
 
-    const userAnswer = answerInput.value.trim();
+    let s = sentences[index];
 
-    const correctAnswer = sentence.chinese
-        .replace(/[。！？，、,.!?]/g, "")
-        .trim();
+    if(answer.value.trim() == s.chinese){
 
-    const userText = userAnswer
-        .replace(/[。！？，、,.!?]/g, "")
-        .trim();
+        result.innerHTML="✅ Đúng";
 
-    if (userText === correctAnswer) {
+    }else{
 
-        resultEl.innerHTML = "✅ Chính xác!";
-
-    } else {
-
-        resultEl.innerHTML = `
-        ❌ Sai<br><br>
-
-        <b>Đáp án:</b><br>
-        ${sentence.chinese}<br><br>
-
-        <b>Pinyin:</b><br>
-        ${sentence.pinyin}
-        `;
+        result.innerHTML=
+        "❌ Đáp án: "+s.chinese+
+        "<br>Pinyin: "+s.pinyin;
 
     }
 
 };
 
-nextBtn.onclick = () => {
 
-    currentIndex++;
+level.onchange = loadData;
 
-    if (currentIndex >= sentences.length) {
-
-        currentIndex = 0;
-
-    }
-
-    showSentence();
-
-};
-
-levelSelect.onchange = loadData;
 
 loadData();
