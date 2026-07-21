@@ -1,0 +1,251 @@
+{
+    "vietnamese": "Xin chào.",
+    "chinese": "你好。",
+    "pinyin": "Nǐ hǎo."
+  },
+  {
+    "vietnamese": "Tạm biệt.",
+    "chinese": "再见。",
+    "pinyin": "Zàijiàn."
+  },
+  {
+    "vietnamese": "Cảm ơn.",
+    "chinese": "谢谢。",
+    "pinyin": "Xièxie."
+  },
+  {
+    "vietnamese": "Không có gì.",
+    "chinese": "不客气。",
+    "pinyin": "Bú kèqi."
+  },
+  {
+    "vietnamese": "Xin lỗi.",
+    "chinese": "对不起。",
+    "pinyin": "Duìbuqǐ."
+  },
+  {
+    "vietnamese": "Không sao.",
+    "chinese": "没关系。",
+    "pinyin": "Méi guānxi."
+  },
+  {
+    "vietnamese": "Bạn khỏe không?",
+    "chinese": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?"
+  },
+  {
+    "vietnamese": "Tôi rất khỏe.",
+    "chinese": "我很好。",
+    "pinyin": "Wǒ hěn hǎo."
+  },
+  {
+    "vietnamese": "Bạn tên là gì?",
+    "chinese": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?"
+  },
+  {
+    "vietnamese": "Tên tôi là Lan.",
+    "chinese": "我叫兰。",
+    "pinyin": "Wǒ jiào Lán."
+  },
+  {
+    "vietnamese": "Tôi là người Việt Nam.",
+    "chinese": "我是越南人。",
+    "pinyin": "Wǒ shì Yuènán rén."
+  },
+  {
+    "vietnamese": "Bạn là người Trung Quốc phải không?",
+    "chinese": "你是中国人吗？",
+    "pinyin": "Nǐ shì Zhōngguó rén ma?"
+  },
+  {
+    "vietnamese": "Đúng vậy.",
+    "chinese": "是。",
+    "pinyin": "Shì."
+  },
+  {
+    "vietnamese": "Không phải.",
+    "chinese": "不是。",
+    "pinyin": "Bú shì."
+  },
+  {
+    "vietnamese": "Đây là gì?",
+    "chinese": "这是什么？",
+    "pinyin": "Zhè shì shénme?"
+  },
+  {
+    "vietnamese": "Đây là sách.",
+    "chinese": "这是书。",
+    "pinyin": "Zhè shì shū."
+  },
+  {
+    "vietnamese": "Đó là bút.",
+    "chinese": "那是笔。",
+    "pinyin": "Nà shì bǐ."
+  },
+  {
+    "vietnamese": "Tôi muốn uống nước.",
+    "chinese": "我想喝水。",
+    "pinyin": "Wǒ xiǎng hē shuǐ."
+  },
+  {
+    "vietnamese": "Tôi muốn ăn cơm.",
+    "chinese": "我想吃饭。",
+    "pinyin": "Wǒ xiǎng chī fàn."
+  },
+  {
+    "vietnamese": "Hôm nay trời rất đẹp.",
+    "chinese": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo."
+  },
+  {
+    "vietnamese": "Hôm nay tôi rất vui.",
+    "chinese": "今天我很高兴。",
+    "pinyin": "Jīntiān wǒ hěn gāoxìng."
+  },
+  {
+    "vietnamese": "Bạn đang làm gì?",
+    "chinese": "你在做什么？",
+    "pinyin": "Nǐ zài zuò shénme?"
+  },
+  {
+    "vietnamese": "Tôi đang học tiếng Trung.",
+    "chinese": "我在学中文。",
+    "pinyin": "Wǒ zài xué Zhōngwén."
+  },
+  {
+    "vietnamese": "Tôi thích học tiếng Trung.",
+    "chinese": "我喜欢学中文。",
+    "pinyin": "Wǒ xǐhuan xué Zhōngwén."
+  },
+  {
+    "vietnamese": "Bạn thích gì?",
+    "chinese": "你喜欢什么？",
+    "pinyin": "Nǐ xǐhuan shénme?"
+  },
+  {
+    "vietnamese": "Tôi thích cà phê.",
+    "chinese": "我喜欢咖啡。",
+    "pinyin": "Wǒ xǐhuan kāfēi."
+  },
+  {
+    "vietnamese": "Tôi không thích trà.",
+    "chinese": "我不喜欢茶。",
+    "pinyin": "Wǒ bù xǐhuan chá."
+  },
+  {
+    "vietnamese": "Nhà bạn ở đâu?",
+    "chinese": "你家在哪儿？",
+    "pinyin": "Nǐ jiā zài nǎr?"
+  },
+  {
+    "vietnamese": "Nhà tôi ở Hà Nội.",
+    "chinese": "我家在河内。",
+    "pinyin": "Wǒ jiā zài Hénèi."
+  },
+  {
+    "vietnamese": "Bạn đi đâu?",
+    "chinese": "你去哪儿？",
+    "pinyin": "Nǐ qù nǎr?"
+  },
+  {
+    "vietnamese": "Tôi đi trường học.",
+    "chinese": "我去学校。",
+    "pinyin": "Wǒ qù xuéxiào."
+  },
+  {
+    "vietnamese": "Hôm nay là thứ mấy?",
+    "chinese": "今天星期几？",
+    "pinyin": "Jīntiān xīngqī jǐ?"
+  },
+  {
+    "vietnamese": "Hôm nay là thứ Hai.",
+    "chinese": "今天星期一。",
+    "pinyin": "Jīntiān xīngqīyī."
+  },
+  {
+    "vietnamese": "Bây giờ mấy giờ?",
+    "chinese": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?"
+  },
+  {
+    "vietnamese": "Bây giờ 8 giờ.",
+    "chinese": "现在八点。",
+    "pinyin": "Xiànzài bā diǎn."
+  },
+  {
+    "vietnamese": "Tôi có một người bạn.",
+    "chinese": "我有一个朋友。",
+    "pinyin": "Wǒ yǒu yí gè péngyou."
+  },
+  {
+    "vietnamese": "Đây là mẹ tôi.",
+    "chinese": "这是我妈妈。",
+    "pinyin": "Zhè shì wǒ māma."
+  },
+  {
+    "vietnamese": "Đó là bố tôi.",
+    "chinese": "那是我爸爸。",
+    "pinyin": "Nà shì wǒ bàba."
+  },
+  {
+    "vietnamese": "Tôi có một em gái.",
+    "chinese": "我有一个妹妹。",
+    "pinyin": "Wǒ yǒu yí gè mèimei."
+  },
+  {
+    "vietnamese": "Tôi không có anh trai.",
+    "chinese": "我没有哥哥。",
+    "pinyin": "Wǒ méiyǒu gēge."
+  },
+  {
+    "vietnamese": "Con mèo rất đáng yêu.",
+    "chinese": "猫很可爱。",
+    "pinyin": "Māo hěn kě'ài."
+  },
+  {
+    "vietnamese": "Con chó ở đâu?",
+    "chinese": "狗在哪儿？",
+    "pinyin": "Gǒu zài nǎr?"
+  },
+  {
+    "vietnamese": "Tôi muốn mua táo.",
+    "chinese": "我想买苹果。",
+    "pinyin": "Wǒ xiǎng mǎi píngguǒ."
+  },
+  {
+    "vietnamese": "Quả này rất ngon.",
+    "chinese": "这个很好吃。",
+    "pinyin": "Zhège hěn hǎochī."
+  },
+  {
+    "vietnamese": "Bao nhiêu tiền?",
+    "chinese": "多少钱？",
+    "pinyin": "Duōshao qián?"
+  },
+  {
+    "vietnamese": "Rất đắt.",
+    "chinese": "很贵。",
+    "pinyin": "Hěn guì."
+  },
+  {
+    "vietnamese": "Rất rẻ.",
+    "chinese": "很便宜。",
+    "pinyin": "Hěn piányi."
+  },
+  {
+    "vietnamese": "Tôi hiểu rồi.",
+    "chinese": "我知道了。",
+    "pinyin": "Wǒ zhīdào le."
+  },
+  {
+    "vietnamese": "Tôi không hiểu.",
+    "chinese": "我不懂。",
+    "pinyin": "Wǒ bù dǒng."
+  },
+  {
+    "vietnamese": "Hẹn gặp lại.",
+    "chinese": "回头见。",
+    "pinyin": "Huítóu jiàn."
+  }
+]
