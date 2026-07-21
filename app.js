@@ -29,6 +29,7 @@ function showSentence() {
     if (sentences.length === 0) return;
 
     const sentence = sentences[currentIndex];
+    console.log(sentence);
 
     vietnameseEl.textContent = sentence.vietnamese;
 
