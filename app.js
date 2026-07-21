@@ -81,5 +81,17 @@ document.getElementById("checkBtn").onclick = ()=>{
 
 level.onchange = loadData;
 
+document.getElementById("listenBtn").onclick = ()=>{
+    let s = sentences[index];
+
+    speechSynthesis.cancel();
+
+    let speech = new SpeechSynthesisUtterance(s.chinese);
+
+    speech.lang = "zh-CN";
+    speech.rate = 0.9;
+
+    speechSynthesis.speak(speech);
+};
 
 loadData();
