@@ -87,11 +87,34 @@ document.getElementById("listenBtn").onclick = () => {
 
     const speech = new SpeechSynthesisUtterance(s.chinese);
 
+    const voices = speechSynthesis.getVoices();
+
+    // Ưu tiên giọng nữ tiếng Trung
+    let voice = voices.find(v =>
+        v.lang.includes("zh") &&
+        (
+            v.name.includes("Female") ||
+            v.name.includes("Ting-Ting") ||
+            v.name.includes("Xiaoxiao") ||
+            v.name.includes("Huihui") ||
+            v.name.includes("Yaoyao")
+        )
+    );
+
+    // Nếu không có thì lấy giọng Trung mặc định
+    if (voice) {
+        speech.voice = voice;
+    }
+
     speech.lang = "zh-CN";
-    speech.rate = 0.9;
+    speech.rate = 0.85;
+    speech.pitch = 1.3;
 
     speechSynthesis.cancel();
-    speechSynthesis.speak(speech);
+
+    setTimeout(() => {
+        speechSynthesis.speak(speech);
+    }, 100);
 
 };
 
