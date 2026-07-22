@@ -87,35 +87,13 @@ document.getElementById("listenBtn").onclick = () => {
 
     const speech = new SpeechSynthesisUtterance(s.chinese);
 
-    const voices = speechSynthesis.getVoices();
-
-    let voice = voices.find(v =>
-        v.lang.startsWith("zh") &&
-        (
-            v.name.includes("Female") ||
-            v.name.includes("Ting-Ting") ||
-            v.name.includes("Xiaoxiao") ||
-            v.name.includes("Huihui")
-        )
-    );
-
-    if (!voice) {
-        voice = voices.find(v => v.lang.startsWith("zh"));
-    }
-
-    if (voice) {
-        speech.voice = voice;
-    }
-
     speech.lang = "zh-CN";
     speech.rate = 0.9;
-    speech.pitch = 1.2;
-
-    speech.onerror = e => console.log("Speech error:", e);
 
     speechSynthesis.cancel();
     speechSynthesis.speak(speech);
 
 };
+
 
 loadData();
