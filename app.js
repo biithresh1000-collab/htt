@@ -81,17 +81,32 @@ document.getElementById("checkBtn").onclick = ()=>{
 
 level.onchange = loadData;
 
-document.getElementById("listenBtn").onclick = ()=>{
-    let s = sentences[index];
+document.getElementById("listenBtn").onclick = () => {
 
-    speechSynthesis.cancel();
+    const s = sentences[index];
 
-    let speech = new SpeechSynthesisUtterance(s.chinese);
+    const speech = new SpeechSynthesisUtterance(s.chinese);
+
+    const voices = speechSynthesis.getVoices();
+
+    const voice = voices.find(v => v.lang.startsWith("zh"));
+
+    if (voice) {
+        speech.voice = voice;
+    }
 
     speech.lang = "zh-CN";
     speech.rate = 0.9;
 
+    speech.onerror = e => console.log("Speech error:", e);
+
+    speech.onstart = () => console.log("Start");
+
+    speech.onend = () => console.log("End");
+
+    speechSynthesis.cancel();
     speechSynthesis.speak(speech);
+
 };
 
 loadData();
