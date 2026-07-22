@@ -89,7 +89,19 @@ document.getElementById("listenBtn").onclick = () => {
 
     const voices = speechSynthesis.getVoices();
 
-    const voice = voices.find(v => v.lang.startsWith("zh"));
+    let voice = voices.find(v =>
+        v.lang.startsWith("zh") &&
+        (
+            v.name.includes("Female") ||
+            v.name.includes("Ting-Ting") ||
+            v.name.includes("Xiaoxiao") ||
+            v.name.includes("Huihui")
+        )
+    );
+
+    if (!voice) {
+        voice = voices.find(v => v.lang.startsWith("zh"));
+    }
 
     if (voice) {
         speech.voice = voice;
@@ -97,12 +109,9 @@ document.getElementById("listenBtn").onclick = () => {
 
     speech.lang = "zh-CN";
     speech.rate = 0.9;
+    speech.pitch = 1.2;
 
     speech.onerror = e => console.log("Speech error:", e);
-
-    speech.onstart = () => console.log("Start");
-
-    speech.onend = () => console.log("End");
 
     speechSynthesis.cancel();
     speechSynthesis.speak(speech);
