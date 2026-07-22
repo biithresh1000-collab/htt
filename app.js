@@ -89,32 +89,25 @@ document.getElementById("listenBtn").onclick = () => {
 
     const voices = speechSynthesis.getVoices();
 
-    // Ưu tiên giọng nữ tiếng Trung
-    let voice = voices.find(v =>
-        v.lang.includes("zh") &&
-        (
-            v.name.includes("Female") ||
-            v.name.includes("Ting-Ting") ||
-            v.name.includes("Xiaoxiao") ||
-            v.name.includes("Huihui") ||
-            v.name.includes("Yaoyao")
-        )
-    );
+    // Chọn giọng nữ tiếng Trung có sẵn trên máy
+let voice = voices.find(v =>
+    v.name.includes("Tingting") &&
+    v.lang === "zh-CN"
+);
 
-    // Nếu không có thì lấy giọng Trung mặc định
-    if (voice) {
-        speech.voice = voice;
-    }
+if (voice) {
+    speech.voice = voice;
+}
 
-    speech.lang = "zh-CN";
-    speech.rate = 0.85;
-    speech.pitch = 1.3;
+speech.lang = "zh-CN";
+speech.rate = 0.85;
+speech.pitch = 1.1;
 
-    speechSynthesis.cancel();
+speechSynthesis.cancel();
 
-    setTimeout(() => {
-        speechSynthesis.speak(speech);
-    }, 100);
+setTimeout(() => {
+    speechSynthesis.speak(speech);
+}, 100);
 
 };
 
