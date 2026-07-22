@@ -77,8 +77,19 @@ document.getElementById("checkBtn").onclick = ()=>{
     }
 
 };
+let voices = [];
 
+function loadVoices() {
+    voices = speechSynthesis.getVoices();
+}
 
+speechSynthesis.onvoiceschanged = loadVoices;
+
+loadVoices();
+
+setTimeout(() => {
+    loadVoices();
+}, 1000);
 level.onchange = loadData;
 
 document.getElementById("listenBtn").onclick = () => {
@@ -87,28 +98,39 @@ document.getElementById("listenBtn").onclick = () => {
 
     const speech = new SpeechSynthesisUtterance(s.chinese);
 
-    const voices = speechSynthesis.getVoices();
+    // dùng danh sách voice đã load sẵn
+    let voice = voices.find(v =>
+        v.lang === "zh-CN" &&
+        (
+            v.name.includes("Female") ||
+            v.name.includes("female") ||
+            v.name.includes("女") ||
+            v.name.includes("Tingting") ||
+            v.name.includes("Ting-Ting") ||
+            v.name.includes("Xiaoxiao") ||
+            v.name.includes("Yaoyao") ||
+            v.name.includes("Huihui")
+        )
+    );
 
-    // Chọn giọng nữ tiếng Trung có sẵn trên máy
-let voice = voices.find(v =>
-    v.name.includes("Tingting") &&
-    v.lang === "zh-CN"
-);
+    // không có nữ thì lấy tiếng Trung bất kỳ
+    if (!voice) {
+        voice = voices.find(v =>
+            v.lang === "zh-CN"
+        );
+    }
 
-if (voice) {
-    speech.voice = voice;
-}
+    if (voice) {
+        speech.voice = voice;
+    }
 
-speech.lang = "zh-CN";
-speech.rate = 0.85;
-speech.pitch = 1.1;
+    speech.lang = "zh-CN";
+    speech.rate = 0.85;
+    speech.pitch = 1.1;
 
-speechSynthesis.cancel();
+    speechSynthesis.cancel();
 
-setTimeout(() => {
     speechSynthesis.speak(speech);
-}, 100);
-
 };
 
 
