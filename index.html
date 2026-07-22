@@ -8,28 +8,54 @@
 
 <body>
 
-<h1>📖 Luyện tiếng Trung</h1>
+<div class="container">
 
-<select id="level">
-    <option value="hsk1.json">HSK 1</option>
-    <option value="hsk2.json">HSK 2</option>
-    <option value="hsk3.json">HSK 3</option>
-    <option value="hsk4.json">HSK 4</option>
-    <option value="hsk5.json">HSK 5</option>
-    <option value="hsk6.json">HSK 6</option>
-</select>
+    <h1>📖 Luyện tiếng Trung</h1>
 
-<h3>Tiếng Việt:</h3>
-<p id="vietnamese"></p>
+    <div class="card">
 
-<button id="listenBtn">🔊 Nghe tiếng Trung</button>
+        <select id="level">
+            <option value="hsk1.json">HSK 1</option>
+            <option value="hsk2.json">HSK 2</option>
+            <option value="hsk3.json">HSK 3</option>
+            <option value="hsk4.json">HSK 4</option>
+            <option value="hsk5.json">HSK 5</option>
+            <option value="hsk6.json">HSK 6</option>
+        </select>
 
-<input id="answer" placeholder="Nhập tiếng Trung">
 
-<button id="checkBtn">Kiểm tra</button>
-<button id="nextBtn">Câu tiếp</button>
+        <h3>Tiếng Việt:</h3>
 
-<p id="result"></p>
+        <p id="vietnamese"></p>
+
+
+        <button id="listenBtn">
+            🔊 Nghe tiếng Trung
+        </button>
+
+
+        <input id="answer" placeholder="Nhập tiếng Trung">
+
+
+        <div class="buttons">
+
+            <button id="checkBtn">
+                Kiểm tra
+            </button>
+
+            <button id="nextBtn">
+                Câu tiếp
+            </button>
+
+        </div>
+
+
+        <p id="result"></p>
+
+    </div>
+
+</div>
+
 
 <script src="app.js?v=4"></script>
 
