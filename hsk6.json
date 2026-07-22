@@ -1,0 +1,1508 @@
+[
+  {
+    "vietnamese": "Hôm nay mình đã dọn phòng rồi.",
+    "chinese": "今天我打扫房间了。",
+    "pinyin": "Jīntiān wǒ dǎsǎo fángjiān le."
+  },
+  {
+    "vietnamese": "Bởi vì nó thật sự quá bừa bộn.",
+    "chinese": "因为真的太乱了。",
+    "pinyin": "Yīnwèi zhēnde tài luàn le."
+  },
+  {
+    "vietnamese": "Hôm qua bạn đến nhà mình.",
+    "chinese": "昨天朋友来我家。",
+    "pinyin": "Zuótiān péngyou lái wǒ jiā."
+  },
+  {
+    "vietnamese": "Cô ấy nhìn phòng của mình.",
+    "chinese": "她看了我的房间。",
+    "pinyin": "Tā kàn le wǒ de fángjiān."
+  },
+  {
+    "vietnamese": "Giật bắn cả mình.",
+    "chinese": "吓了一大跳。",
+    "pinyin": "Xià le yí dà tiào."
+  },
+  {
+    "vietnamese": "Cô ấy ngạc nhiên hỏi mình.",
+    "chinese": "她惊讶地问我。",
+    "pinyin": "Tā jīngyà de wèn wǒ."
+  },
+  {
+    "vietnamese": "Đây là chỗ cho người ở sao?",
+    "chinese": "这是人住的吗？",
+    "pinyin": "Zhè shì rén zhù de ma?"
+  },
+  {
+    "vietnamese": "Mình nghe xong rất xấu hổ.",
+    "chinese": "我听了很害羞。",
+    "pinyin": "Wǒ tīng le hěn hàixiū."
+  },
+  {
+    "vietnamese": "Thực ra mình cũng biết là bừa.",
+    "chinese": "其实我也知道乱。",
+    "pinyin": "Qíshí wǒ yě zhīdào luàn."
+  },
+  {
+    "vietnamese": "Nhưng mình không muốn động tay.",
+    "chinese": "但是我不想动。",
+    "pinyin": "Dànshì wǒ bù xiǎng dòng."
+  },
+  {
+    "vietnamese": "Mỗi ngày tan làm về nhà.",
+    "chinese": "每天下班回家。",
+    "pinyin": "Měitiān xiàbān huíjiā."
+  },
+  {
+    "vietnamese": "Mình đã vô cùng mệt rồi.",
+    "chinese": "我已经非常累了。",
+    "pinyin": "Wǒ yǐjīng fēicháng lèi le."
+  },
+  {
+    "vietnamese": "Không có sức để dọn dẹp.",
+    "chinese": "没有力气打扫。",
+    "pinyin": "Méiyǒu lìqi dǎsǎo."
+  },
+  {
+    "vietnamese": "Mình muốn để cuối tuần làm.",
+    "chinese": "我想周末再做。",
+    "pinyin": "Wǒ xiǎng zhōumò zài zuò."
+  },
+  {
+    "vietnamese": "Đến lúc cuối tuần.",
+    "chinese": "到了周末的时候。",
+    "pinyin": "Dào le zhōumò de shíhou."
+  },
+  {
+    "vietnamese": "Mình lại muốn đi chơi.",
+    "chinese": "我又想出去玩。",
+    "pinyin": "Wǒ yòu xiǎng chūqù wán."
+  },
+  {
+    "vietnamese": "Hoặc là chỉ muốn ngủ.",
+    "chinese": "或者只想睡觉。",
+    "pinyin": "Huòzhě zhǐ xiǎng shuìjiào."
+  },
+  {
+    "vietnamese": "Cho nên mãi vẫn không dọn.",
+    "chinese": "所以一直没打扫。",
+    "pinyin": "Suǒyǐ yìzhí méi dǎsǎo."
+  },
+  {
+    "vietnamese": "Ngày qua ngày.",
+    "chinese": "一天又一天。",
+    "pinyin": "Yì tiān yòu yì tiān."
+  },
+  {
+    "vietnamese": "Một tháng đã trôi qua.",
+    "chinese": "一个月过去了。",
+    "pinyin": "Yí ge yuè guòqù le."
+  },
+  {
+    "vietnamese": "Căn phòng liền biến thành thế này.",
+    "chinese": "房间就变成这样。",
+    "pinyin": "Fángjiān jiù biànchéng zhèyàng."
+  },
+  {
+    "vietnamese": "Giống như một bãi rác.",
+    "chinese": "像一个垃圾场。",
+    "pinyin": "Xiàng yí ge lājīchǎng."
+  },
+  {
+    "vietnamese": "Mình không thể tiếp tục như vầy nữa.",
+    "chinese": "我不能再这样了。",
+    "pinyin": "Wǒ bù néng zài zhèyàng le."
+  },
+  {
+    "vietnamese": "Mình phải thay đổi bản thân.",
+    "chinese": "我要改变自己。",
+    "pinyin": "Wǒ yào gǎibiàn zìjǐ."
+  },
+  {
+    "vietnamese": "Nên hôm nay ngày nghỉ.",
+    "chinese": "所以今天休息。",
+    "pinyin": "Suǒyǐ jīntiān xiūxi."
+  },
+  {
+    "vietnamese": "Mình không đi đâu cả.",
+    "chinese": "我哪都没去。",
+    "pinyin": "Wǒ nǎr dōu méi qù."
+  },
+  {
+    "vietnamese": "Mình ở lại trong nhà.",
+    "chinese": "我留在家里。",
+    "pinyin": "Wǒ liú zài jiālǐ."
+  },
+  {
+    "vietnamese": "Quyết định dọn dẹp triệt để.",
+    "chinese": "决定彻底打扫。",
+    "pinyin": "Juédìng chèdǐ dǎsǎo."
+  },
+  {
+    "vietnamese": "Tổng vệ sinh cho căn phòng.",
+    "chinese": "给房间大扫除。",
+    "pinyin": "Gěi fángjiān dàsǎochú."
+  },
+  {
+    "vietnamese": "Chúng ta bắt đầu bây giờ nhé.",
+    "chinese": "我们现在开始吧。",
+    "pinyin": "Wǒmen xiànzài kāishǐ ba."
+  },
+{
+    "vietnamese": "Bước đầu tiên là dọn giường.",
+    "chinese": "第一步是整理床。",
+    "pinyin": "Dì yí bù shì zhěnglǐ chuáng."
+  },
+  {
+    "vietnamese": "Giường là nơi để ngủ.",
+    "chinese": "床是睡觉的地方。",
+    "pinyin": "Chuáng shì shuìjiào de dìfang."
+  },
+  {
+    "vietnamese": "Nhưng mà trên giường của mình.",
+    "chinese": "但是我的床上。",
+    "pinyin": "Dànshì wǒ de chuáng shàng."
+  },
+  {
+    "vietnamese": "Toàn bộ đều là quần áo.",
+    "chinese": "全都是衣服。",
+    "pinyin": "Quán dōu shì yīfu."
+  },
+  {
+    "vietnamese": "Còn có túi xách của mình.",
+    "chinese": "还有我的包包。",
+    "pinyin": "Hái yǒu wǒ de bāobāo."
+  },
+  {
+    "vietnamese": "Thậm chí còn có sách vở.",
+    "chinese": "甚至还有书本。",
+    "pinyin": "Shènzhì hái yǒu shūběn."
+  },
+  {
+    "vietnamese": "Mỗi buổi tối đi ngủ.",
+    "chinese": "每天晚上睡觉。",
+    "pinyin": "Měitiān wǎnshang shuìjiào."
+  },
+  {
+    "vietnamese": "Phải tìm trong đống quần áo.",
+    "chinese": "要在衣服里找。",
+    "pinyin": "Yào zài yīfu lǐ zhǎo."
+  },
+  {
+    "vietnamese": "Tìm một chỗ trống nhỏ.",
+    "chinese": "找一个小位子。",
+    "pinyin": "Zhǎo yí ge xiǎo wèizi."
+  },
+  {
+    "vietnamese": "Ngủ kiểu này mệt quá rồi.",
+    "chinese": "这样睡觉太累了。",
+    "pinyin": "Zhèyàng shuìjiào tài lèi le."
+  },
+  {
+    "vietnamese": "Trước tiên nhặt quần áo lên.",
+    "chinese": "先把衣服拿起来。",
+    "pinyin": "Xiān bǎ yīfu ná qǐlái."
+  },
+  {
+    "vietnamese": "Để lên cái ghế bên cạnh.",
+    "chinese": "放在旁边的椅子。",
+    "pinyin": "Fàng zài pángbiān de yǐzi."
+  },
+  {
+    "vietnamese": "Nhiều quần áo thế này.",
+    "chinese": "这么多衣服。",
+    "pinyin": "Zhème duō yīfu."
+  },
+  {
+    "vietnamese": "Có áo len mùa đông.",
+    "chinese": "有冬天的毛衣。",
+    "pinyin": "Yǒu dōngtiān de máoyī."
+  },
+  {
+    "vietnamese": "Có váy mùa hè.",
+    "chinese": "有夏天的裙子。",
+    "pinyin": "Yǒu xiàtiān de qúnzi."
+  },
+  {
+    "vietnamese": "Còn có áo sơ mi mùa xuân.",
+    "chinese": "还有春天的衬衫。",
+    "pinyin": "Hái yǒu chūntiān de chènshān."
+  },
+  {
+    "vietnamese": "Lấy ra bằng cách nào vậy?",
+    "chinese": "怎么拿出来的？",
+    "pinyin": "Zěnme ná chūlái de?"
+  },
+  {
+    "vietnamese": "Chính mình cũng quên luôn rồi.",
+    "chinese": "我自己都忘了。",
+    "pinyin": "Wǒ zìjǐ dōu wàng le."
+  },
+  {
+    "vietnamese": "Mình phải phân loại chúng.",
+    "chinese": "我要把它们分类。",
+    "pinyin": "Wǒ yào bǎ tāmen fēnlèi."
+  },
+  {
+    "vietnamese": "Chiếc áo len màu vàng này.",
+    "chinese": "这件黄色毛衣。",
+    "pinyin": "Zhè jiàn huángsè máoyī."
+  },
+  {
+    "vietnamese": "Là món mình thích nhất.",
+    "chinese": "是我最喜欢的。",
+    "pinyin": "Shì wǒ zuì xǐhuan de."
+  },
+  {
+    "vietnamese": "Phải gấp lại đàng hoàng.",
+    "chinese": "要好好叠起来。",
+    "pinyin": "Yào hǎohāo dié qǐlái."
+  },
+  {
+    "vietnamese": "Cái quần màu xanh này.",
+    "chinese": "这件蓝色裤子。",
+    "pinyin": "Zhè jiàn lánsè kùzi."
+  },
+  {
+    "vietnamese": "Đã hơi bẩn rồi.",
+    "chinese": "已经有点脏了。",
+    "pinyin": "Yǐjīng yǒudiǎn zāng le."
+  },
+  {
+    "vietnamese": "Phải bỏ vào máy giặt.",
+    "chinese": "要放进洗衣机。",
+    "pinyin": "Yào fàng jìn xǐyījī."
+  },
+  {
+    "vietnamese": "Chiếc váy màu trắng kia.",
+    "chinese": "那件白色裙子。",
+    "pinyin": "Nà jiàn báisè qúnzi."
+  },
+  {
+    "vietnamese": "Cần phải giặt bằng tay.",
+    "chinese": "需要用手洗。",
+    "pinyin": "Xūyào yòng shǒu xǐ."
+  },
+  {
+    "vietnamese": "Thật sự rất phiền phức đó.",
+    "chinese": "真的好麻烦呀。",
+    "pinyin": "Zhēnde hǎo máfan ya."
+  },
+  {
+    "vietnamese": "Nhưng đây là lỗi của mình.",
+    "chinese": "但是这是我的错。",
+    "pinyin": "Dànshì zhè shì wǒ de cuò."
+  },
+  {
+    "vietnamese": "Ai bảo mình không giặt sớm.",
+    "chinese": "谁让我不早点洗。",
+    "pinyin": "Shuí ràng wǒ bù zǎodiǎn xǐ."
+  },
+  {
+    "vietnamese": "Mình gấp từng chiếc một.",
+    "chinese": "我一件件地叠。",
+    "pinyin": "Wǒ yí jiàn jiàn de dié."
+  },
+  {
+    "vietnamese": "Thời gian từ từ trôi qua.",
+    "chinese": "时间慢慢过去。",
+    "pinyin": "Shíjiān mànmàn guòqù."
+  },
+  {
+    "vietnamese": "Quần áo cuối cùng cũng xử lý xong.",
+    "chinese": "衣服终于弄完了。",
+    "pinyin": "Yīfu zhōngyú nòng wán le."
+  },
+  {
+    "vietnamese": "Còn lại chính là ga giường.",
+    "chinese": "剩下的就是床单。",
+    "pinyin": "Shèngxià de jiùshì chuángdān."
+  },
+  {
+    "vietnamese": "Ga giường cũng rất bẩn.",
+    "chinese": "床单也很脏。",
+    "pinyin": "Chuángdān yě hěn zāng."
+  },
+  {
+    "vietnamese": "Mình phải thay cái mới.",
+    "chinese": "我要换一个新的。",
+    "pinyin": "Wǒ yào huàn yí ge xīn de."
+  },
+  {
+    "vietnamese": "Thay một bộ màu hồng.",
+    "chinese": "换了一套粉色的。",
+    "pinyin": "Huàn le yí tào fěnsè de."
+  },
+  {
+    "vietnamese": "Bên trên có họa tiết mèo con.",
+    "chinese": "上面有小猫图案。",
+    "pinyin": "Shàngmiàn yǒu xiǎomāo tú'àn."
+  },
+  {
+    "vietnamese": "Trông vô cùng đáng yêu.",
+    "chinese": "看起来特别可爱。",
+    "pinyin": "Kàn qǐlái tèbié kě'ài."
+  },
+  {
+    "vietnamese": "Gối cũng vỗ vỗ vài cái.",
+    "chinese": "枕头也拍了拍。",
+    "pinyin": "Zhěntou yě pāi le pāi."
+  },
+  {
+    "vietnamese": "Chiếc giường của hiện tại.",
+    "chinese": "现在的这张床。",
+    "pinyin": "Xiànzài de zhè zhāng chuáng."
+  },
+  {
+    "vietnamese": "Vừa to vừa thoải mái.",
+    "chinese": "又大又舒服。",
+    "pinyin": "Yòu dà yòu shūfu."
+  },
+  {
+    "vietnamese": "Tiếp theo chúng ta xem cái bàn.",
+    "chinese": "接着我们看桌子。",
+    "pinyin": "Jiēzhe wǒmen kàn zhuōzi."
+  },
+  {
+    "vietnamese": "Cái bàn khiến người ta đau đầu.",
+    "chinese": "桌子让人头疼。",
+    "pinyin": "Zhuōzi ràng rén tóuténg."
+  },
+  {
+    "vietnamese": "Bên trên có một dàn máy tính.",
+    "chinese": "上面有一台电脑。",
+    "pinyin": "Shàngmiàn yǒu yì tái diànnǎo."
+  },
+  {
+    "vietnamese": "Bên cạnh toàn là đồ đạc.",
+    "chinese": "旁边全都是东西。",
+    "pinyin": "Pángbiān quán dōu shì dōngxi."
+  },
+  {
+    "vietnamese": "Có đồ ăn vặt ăn dở.",
+    "chinese": "有吃剩的零食。",
+    "pinyin": "Yǒu chī shèng de língshí."
+  },
+  {
+    "vietnamese": "Có ba cái chai không.",
+    "chinese": "有三个空瓶子。",
+    "pinyin": "Yǒu sān ge kōng píngzi."
+  },
+  {
+    "vietnamese": "Còn có mấy cái cốc.",
+    "chinese": "还有好几个杯子。",
+    "pinyin": "Hái yǒu hǎo jǐ ge bēizi."
+  },
+  {
+    "vietnamese": "Sao lại có nhiều cốc thế này.",
+    "chinese": "怎么有这么多杯子。",
+    "pinyin": "Zěnme yǒu zhème duō bēizi."
+  },
+  {
+    "vietnamese": "Có lẽ mỗi lần muốn uống nước.",
+    "chinese": "可能每次想喝水。",
+    "pinyin": "Kěnéng měicì xiǎng hē shuǐ."
+  },
+  {
+    "vietnamese": "Lười đi rửa cốc cũ.",
+    "chinese": "懒得去洗旧杯子。",
+    "pinyin": "Lǎnde qù xǐ jiù bēizi."
+  },
+  {
+    "vietnamese": "Nên lấy thẳng cốc mới.",
+    "chinese": "就直接拿新杯子。",
+    "pinyin": "Jiù zhíjiē ná xīn bēizi."
+  },
+  {
+    "vietnamese": "Việc này thật sự quá đáng rồi.",
+    "chinese": "这真的太夸张了。",
+    "pinyin": "Zhè zhēnde tài kuāzhāng le."
+  },
+  {
+    "vietnamese": "Trước tiên vứt rác đi.",
+    "chinese": "先把垃圾扔掉。",
+    "pinyin": "Xiān bǎ lājī rēng diào."
+  },
+  {
+    "vietnamese": "Vứt túi vào thùng rác.",
+    "chinese": "袋子扔进垃圾桶。",
+    "pinyin": "Dàizi rēng jìn lājītǒng."
+  },
+  {
+    "vietnamese": "Chai không cũng vứt vào.",
+    "chinese": "空瓶子也扔进去。",
+    "pinyin": "Kōng píngzi yě rēng jìnqù."
+  },
+  {
+    "vietnamese": "Cốc thì mang vào bếp.",
+    "chinese": "杯子拿到厨房。",
+    "pinyin": "Bēizi ná dào chúfáng."
+  },
+  {
+    "vietnamese": "Đợi lát nữa rửa cùng lúc.",
+    "chinese": "等一下一起洗。",
+    "pinyin": "Děng yíxià yìqǐ xǐ."
+  },
+  {
+    "vietnamese": "Sau đó xem sách trên bàn.",
+    "chinese": "然后看桌上的书。",
+    "pinyin": "Ránhòu kàn zhuō shàng de shū."
+  },
+  {
+    "vietnamese": "Tuần trước mình có bài thi.",
+    "chinese": "我上周考了试。",
+    "pinyin": "Wǒ shàng zhōu kǎo le shì."
+  },
+  {
+    "vietnamese": "Để chuẩn bị cho kỳ thi.",
+    "chinese": "为了准备考试。",
+    "pinyin": "Wèile zhǔnbèi kǎoshì."
+  },
+  {
+    "vietnamese": "Mình đã mua rất nhiều sách.",
+    "chinese": "我买了很多书。",
+    "pinyin": "Wǒ mǎi le hěn duō shū."
+  },
+  {
+    "vietnamese": "Đọc vài trang rồi dừng.",
+    "chinese": "看了几页就停了。",
+    "pinyin": "Kàn le jǐ yè jiù tíng le."
+  },
+  {
+    "vietnamese": "Chúng đều nằm trên bàn.",
+    "chinese": "它们都在桌子上。",
+    "pinyin": "Tāmen dōu zài zhuōzi shàng."
+  },
+  {
+    "vietnamese": "Mình phải cất chúng đi.",
+    "chinese": "我要把它们收好。",
+    "pinyin": "Wǒ yào bǎ tāmen shōu hǎo."
+  },
+  {
+    "vietnamese": "Đặt lên trên giá sách.",
+    "chinese": "放在书架上面。",
+    "pinyin": "Fàng zài shūjià shàngmiàn."
+  },
+  {
+    "vietnamese": "Sau này có thể vẫn sẽ đọc.",
+    "chinese": "以后可能还会看。",
+    "pinyin": "Yǐhòu kěnéng hái huì kàn."
+  },
+  {
+    "vietnamese": "Cũng có thể chẳng bao giờ đọc nữa.",
+    "chinese": "也许再也不看了。",
+    "pinyin": "Yěxǔ zài yě bù kàn le."
+  },
+  {
+    "vietnamese": "Mình còn tìm thấy rất nhiều bút.",
+    "chinese": "我还找到很多笔。",
+    "pinyin": "Wǒ hái zhǎodào hěn duō bǐ."
+  },
+  {
+    "vietnamese": "Màu đỏ và màu đen.",
+    "chinese": "红色和黑色的。",
+    "pinyin": "Hóngsè hé hēisè de."
+  },
+  {
+    "vietnamese": "Còn có bút màu xanh nữa.",
+    "chinese": "还有蓝色的笔。",
+    "pinyin": "Hái yǒu lánsè de bǐ."
+  },
+  {
+    "vietnamese": "Toàn bộ cho vào ống bút.",
+    "chinese": "全部放进笔筒里。",
+    "pinyin": "Quánbù fàng jìn bǐtǒng lǐ."
+  },
+  {
+    "vietnamese": "Còn có một cái gương.",
+    "chinese": "还有一面镜子。",
+    "pinyin": "Hái yǒu yí miàn jìngzi."
+  },
+  {
+    "vietnamese": "Gương đã hơi bẩn rồi.",
+    "chinese": "镜子已经有点脏。",
+    "pinyin": "Jìngzi yǐjīng yǒudiǎn zāng."
+  },
+  {
+    "vietnamese": "Mình lấy khăn giấy lau một chút.",
+    "chinese": "我拿纸巾擦了擦。",
+    "pinyin": "Wǒ ná zhǐjīn cā le cā."
+  },
+  {
+    "vietnamese": "Ngay lập tức trở nên sạch sẽ.",
+    "chinese": "马上变干净了。",
+    "pinyin": "Mǎshàng biàn gānjìng le."
+  },
+  {
+    "vietnamese": "Cuối cùng lấy một cái giẻ ướt.",
+    "chinese": "最后拿一块湿布。",
+    "pinyin": "Zuìhòu ná yí kuài shībù."
+  },
+  {
+    "vietnamese": "Lau cái bàn hai lần.",
+    "chinese": "把桌子擦了两遍。",
+    "pinyin": "Bǎ zhuōzi cā le liǎng biàn."
+  },
+  {
+    "vietnamese": "Cuối cùng cũng nhìn thấy mặt bàn rồi.",
+    "chinese": "终于看到桌面了。",
+    "pinyin": "Zhōngyú kàndào zhuōmiàn le."
+  },
+  {
+    "vietnamese": "Hóa ra cái bàn to như vậy.",
+    "chinese": "桌子原来这么大。",
+    "pinyin": "Zhuōzi yuánlái zhème dà."
+  },
+  {
+    "vietnamese": "Trước đây mình đều không nhận ra.",
+    "chinese": "我以前都没发现。",
+    "pinyin": "Wǒ yǐqián dōu méi fāxiàn."
+  },
+  {
+    "vietnamese": "Ngồi ở trước cái bàn.",
+    "chinese": "坐在桌子前面。",
+    "pinyin": "Zuò zài zhuōzi qiánmiàn."
+  },
+  {
+    "vietnamese": "Cảm giác có thể làm việc ở đây.",
+    "chinese": "感觉可以在这工作。",
+    "pinyin": "Gǎnjué kěyǐ zài zhè gōngzuò."
+  },
+  {
+    "vietnamese": "Hoặc yên tĩnh đọc sách.",
+    "chinese": "或者安静地看看书。",
+    "pinyin": "Huòzhě ānjìng de kànkan shū."
+  },
+  {
+    "vietnamese": "Nhất định sẽ tốt hơn trước kia.",
+    "chinese": "一定比以前好。",
+    "pinyin": "Yídìng bǐ yǐqián hǎo."
+  },
+  {
+    "vietnamese": "Bàn của các bạn có bừa không?",
+    "chinese": "你们的桌子乱吗？",
+    "pinyin": "Nǐmen de zhuōzi luàn ma?"
+  },
+  {
+    "vietnamese": "Có phải cũng giống như mình không?",
+    "chinese": "是不是跟我一样？",
+    "pinyin": "Shì bushì gēn wǒ yíyàng?"
+  },
+  {
+    "vietnamese": "Nhưng mà không sao đâu.",
+    "chinese": "不过没有关系。",
+    "pinyin": "Búguò méiyǒu guānxi."
+  },
+  {
+    "vietnamese": "Chỉ cần dọn dẹp một chút.",
+    "chinese": "只要打扫一下。",
+    "pinyin": "Zhǐyào dǎsǎo yíxià."
+  },
+{
+  "vietnamese": "Là sẽ trở nên tốt thôi.",
+  "chinese": "就会变好的。",
+  "pinyin": "Jiù huì biàn hǎo de."
+},
+{
+  "vietnamese": "Dọn xong bàn và giường rồi.",
+  "chinese": "打扫完桌子和床。",
+  "pinyin": "Dǎsǎo wán zhuōzi hé chuáng."
+},
+{
+  "vietnamese": "Bây giờ đến xem tủ quần áo.",
+  "chinese": "现在来看看衣柜。",
+  "pinyin": "Xiànzài lái kànkan yīguì."
+},
+{
+  "vietnamese": "Cửa tủ quần áo đóng không chặt.",
+  "chinese": "衣柜的门没关紧。",
+  "pinyin": "Yīguì de mén méi guān jǐn."
+},
+{
+  "vietnamese": "Vì đồ bên trong quá nhiều.",
+  "chinese": "因为里面东西太多。",
+  "pinyin": "Yīnwèi lǐmiàn dōngxi tài duō."
+},
+{
+  "vietnamese": "Sắp rơi hết cả ra ngoài rồi.",
+  "chinese": "都快掉出来了。",
+  "pinyin": "Dōu kuài diào chūlái le."
+},
+{
+  "vietnamese": "Mình mở cửa tủ ra.",
+  "chinese": "我打开了柜门。",
+  "pinyin": "Wǒ dǎkāi le guìmén."
+},
+{
+  "vietnamese": "Quần áo toàn bộ đều lộn xộn rồi.",
+  "chinese": "衣服全部都乱了。",
+  "pinyin": "Yīfu quánbù dōu luàn le."
+},
+{
+  "vietnamese": "Mình phải treo lại một lượt.",
+  "chinese": "我要重新挂一遍。",
+  "pinyin": "Wǒ yào chóngxīn guà yí biàn."
+},
+{
+  "vietnamese": "Áo khoác treo bên trái.",
+  "chinese": "大衣挂在左边。",
+  "pinyin": "Dàyī guà zài zuǒbiān."
+},
+{
+  "vietnamese": "Áo ngắn treo bên phải.",
+  "chinese": "短衣服挂在右边。",
+  "pinyin": "Duǎn yīfu guà zài yòubiān."
+},
+{
+  "vietnamese": "Quần đặt ở phía dưới.",
+  "chinese": "裤子放在下面。",
+  "pinyin": "Kùzi fàng zài xiàmiàn."
+},
+{
+  "vietnamese": "Mất mười phút đồng hồ.",
+  "chinese": "用了十分钟时间。",
+  "pinyin": "Yòng le shí fēnzhōng shíjiān."
+},
+{
+  "vietnamese": "Tủ quần áo cũng gọn gàng rồi.",
+  "chinese": "衣柜也整齐了。",
+  "pinyin": "Yīguì yě zhěngqí le."
+},
+{
+  "vietnamese": "Bây giờ đến lúc quét nhà rồi.",
+  "chinese": "现在该打扫地了。",
+  "pinyin": "Xiànzài gāi dǎsǎo dì le."
+},
+{
+  "vietnamese": "Vấn đề ở sàn nhà là nghiêm trọng nhất.",
+  "chinese": "地板问题最严重。",
+  "pinyin": "Dìbǎn wèntí zuì yánzhòng."
+},
+{
+  "vietnamese": "Có cực kỳ nhiều bụi bẩn.",
+  "chinese": "有非常多的灰尘。",
+  "pinyin": "Yǒu fēicháng duō de huīchén."
+},
+{
+  "vietnamese": "Còn có rất nhiều tóc.",
+  "chinese": "还有很多头发。",
+  "pinyin": "Hái yǒu hěn duō tóufa."
+},
+{
+  "vietnamese": "Mỗi ngày mình đều rụng tóc.",
+  "chinese": "我每天掉头发。",
+  "pinyin": "Wǒ měitiān diào tóufa."
+},
+{
+  "vietnamese": "Mình thật sự rất lo lắng.",
+  "chinese": "我真的很担心。",
+  "pinyin": "Wǒ zhēnde hěn dānxīn."
+},
+{
+  "vietnamese": "Mình có bị hói luôn không.",
+  "chinese": "我会不会变秃了。",
+  "pinyin": "Wǒ huì búhuì biàn tū le."
+},
+{
+  "vietnamese": "Mặc kệ đi, quét nhà trước đã.",
+  "chinese": "不管了先扫地吧。",
+  "pinyin": "Bùguǎn le xiān sǎodì ba."
+},
+{
+  "vietnamese": "Mình lấy chổi tới.",
+  "chinese": "我拿来了扫把。",
+  "pinyin": "Wǒ ná lái le sǎobǎ."
+},
+{
+  "vietnamese": "Bắt đầu quét từ cửa.",
+  "chinese": "从门口开始扫。",
+  "pinyin": "Cóng ménkǒu kāishǐ sǎo."
+},
+{
+  "vietnamese": "Quét thẳng vào bên trong.",
+  "chinese": "一直往里面扫。",
+  "pinyin": "Yìzhí wǎng lǐmiàn sǎo."
+},
+{
+  "vietnamese": "Quét ra được một đống lớn.",
+  "chinese": "扫出了一大堆。",
+  "pinyin": "Sǎo chū le yí dà duī."
+},
+{
+  "vietnamese": "Thật sự quá bẩn rồi.",
+  "chinese": "真的太脏了。",
+  "pinyin": "Zhēnde tài zāng le."
+},
+{
+  "vietnamese": "Mình không ngừng hắt xì.",
+  "chinese": "我不停地打喷嚏。",
+  "pinyin": "Wǒ bùtíng de dǎ pēntì."
+},
+{
+  "vietnamese": "Hắt xì, hắt xì, hắt xì.",
+  "chinese": "阿嚏阿嚏阿嚏。",
+  "pinyin": "Ātì ātì ātì."
+},
+{
+  "vietnamese": "Cảm thấy mũi rất ngứa.",
+  "chinese": "鼻子觉得好痒。",
+  "pinyin": "Bízi juéde hǎo yǎng."
+},
+{
+  "vietnamese": "Xem ra bắt buộc phải đeo khẩu trang.",
+  "chinese": "看来必须戴口罩。",
+  "pinyin": "Kànlái bìxū dài kǒuzhào."
+},
+{
+  "vietnamese": "Mình đi tìm một cái khẩu trang.",
+  "chinese": "我去找一个口罩。",
+  "pinyin": "Wǒ qù zhǎo yí ge kǒuzhào."
+},
+{
+  "vietnamese": "Đeo lên trên mặt.",
+  "chinese": "戴在了脸上。",
+  "pinyin": "Dài zài le liǎn shàng."
+},
+{
+  "vietnamese": "Tiếp tục quét nhà cẩn thận.",
+  "chinese": "继续认真扫地。",
+  "pinyin": "Jìxù rènzhēn sǎodì."
+},
+{
+  "vietnamese": "Quét xong tất cả các góc.",
+  "chinese": "扫完所有的角落。",
+  "pinyin": "Sǎo wán suǒyǒu de jiǎoluò."
+},
+
+{
+  "vietnamese": "Sau đó lấy cây lau nhà.",
+  "chinese": "然后拿来拖把。",
+  "pinyin": "Ránhòu ná lái tuōbǎ."
+},
+{
+  "vietnamese": "Vào nhà vệ sinh giặt cây lau nhà.",
+  "chinese": "去洗手间洗拖把。",
+  "pinyin": "Qù xǐshǒujiān xǐ tuōbǎ."
+},
+{
+  "vietnamese": "Vắt cho khô hết nước.",
+  "chinese": "把水都拧干。",
+  "pinyin": "Bǎ shuǐ dōu nǐng gān."
+},
+{
+  "vietnamese": "Bắt đầu từ từ lau nhà.",
+  "chinese": "开始慢慢拖地。",
+  "pinyin": "Kāishǐ mànmàn tuōdì."
+},
+{
+  "vietnamese": "Mình lau vô cùng cẩn thận.",
+  "chinese": "我拖得非常认真。",
+  "pinyin": "Wǒ tuō de fēicháng rènzhēn."
+},
+{
+  "vietnamese": "Một chút cũng không bỏ sót.",
+  "chinese": "一点也不放过。",
+  "pinyin": "Yìdiǎn yě bú fàngguò."
+},
+{
+  "vietnamese": "Lúc này.",
+  "chinese": "这个时候。",
+  "pinyin": "Zhège shíhou."
+},
+{
+  "vietnamese": "Mình bắt đầu thấy mệt rồi.",
+  "chinese": "我开始觉得累了。",
+  "pinyin": "Wǒ kāishǐ juéde lèi le."
+},
+{
+  "vietnamese": "Tay rất mỏi.",
+  "chinese": "手非常酸。",
+  "pinyin": "Shǒu fēicháng suān."
+},
+{
+  "vietnamese": "Lưng cũng hơi đau một chút.",
+  "chinese": "背也有一点痛。",
+  "pinyin": "Bèi yě yǒu yìdiǎn tòng."
+},
+{
+  "vietnamese": "Mình đã dừng lại.",
+  "chinese": "我停了下来。",
+  "pinyin": "Wǒ tíng le xiàlái."
+},
+{
+  "vietnamese": "Mình muốn nghỉ ngơi.",
+  "chinese": "我想要休息。",
+  "pinyin": "Wǒ xiǎngyào xiūxi."
+},
+{
+  "vietnamese": "Nhưng không được ngồi xuống.",
+  "chinese": "但是不能坐下。",
+  "pinyin": "Dànshì bù néng zuò xià."
+},
+{
+  "vietnamese": "Ngồi xuống là không đứng lên nổi nữa.",
+  "chinese": "坐下就不起来了。",
+  "pinyin": "Zuò xià jiù bù qǐlái le."
+},
+{
+  "vietnamese": "Mình lấy điện thoại ra.",
+  "chinese": "我拿出了手机。",
+  "pinyin": "Wǒ ná chū le shǒujī."
+},
+{
+  "vietnamese": "Mở ứng dụng âm nhạc.",
+  "chinese": "打开音乐软件。",
+  "pinyin": "Dǎkāi yīnyuè ruǎnjiàn."
+},
+{
+  "vietnamese": "Mình cần nghe chút nhạc.",
+  "chinese": "我需要听点音乐。",
+  "pinyin": "Wǒ xūyào tīng diǎn yīnyuè."
+},
+{
+  "vietnamese": "Âm nhạc có thể cho mình sức mạnh.",
+  "chinese": "音乐能给我力量。",
+  "pinyin": "Yīnyuè néng gěi wǒ lìliàng."
+},
+{
+  "vietnamese": "Mình chọn một bài nhạc nhanh.",
+  "chinese": "我选了一首快歌。",
+  "pinyin": "Wǒ xuǎn le yì shǒu kuàigē."
+},
+{
+  "vietnamese": "Mình chọn một bài nhạc nhanh.",
+  "chinese": "我选了一首快歌。",
+  "pinyin": "Wǒ xuǎn le yì shǒu kuàigē."
+},
+
+{
+  "vietnamese": "Nhịp điệu rất nhanh.",
+  "chinese": "节奏非常快。",
+  "pinyin": "Jiézòu fēicháng kuài."
+},
+{
+  "vietnamese": "Khiến người ta muốn nhảy múa.",
+  "chinese": "让人想跳舞。",
+  "pinyin": "Ràng rén xiǎng tiàowǔ."
+},
+{
+  "vietnamese": "Mình lẩm nhẩm theo điệu nhạc.",
+  "chinese": "我跟着音乐。",
+  "pinyin": "Wǒ gēnzhe yīnyuè."
+},
+{
+  "vietnamese": "Vừa hát lớn.",
+  "chinese": "一边大声唱歌。",
+  "pinyin": "Yìbiān dàshēng chànggē."
+},
+{
+  "vietnamese": "Vừa dùng sức lau nhà.",
+  "chinese": "一边用力拖地。",
+  "pinyin": "Yìbiān yònglì tuōdì."
+},
+{
+  "vietnamese": "Cây lau nhà giống như chiếc micro.",
+  "chinese": "拖把就像麦克风。",
+  "pinyin": "Tuōbǎ jiù xiàng màikèfēng."
+},
+{
+  "vietnamese": "Mình là một ngôi sao lớn.",
+  "chinese": "我是个大明星。",
+  "pinyin": "Wǒ shì ge dà míngxīng."
+},
+{
+  "vietnamese": "Đang mở concert ở đây.",
+  "chinese": "在这里开演唱会。",
+  "pinyin": "Zài zhèlǐ kāi yǎnchànghuì."
+},
+{
+  "vietnamese": "Nghĩ như vậy.",
+  "chinese": "这样想一想。",
+  "pinyin": "Zhèyàng xiǎng yi xiǎng."
+},
+{
+  "vietnamese": "Dọn dẹp cũng không còn đau khổ nữa.",
+  "chinese": "打扫也不痛苦了。",
+  "pinyin": "Dǎsǎo yě bù tòngkǔ le."
+},
+{
+  "vietnamese": "Thậm chí có chút vui vẻ.",
+  "chinese": "甚至有点好玩。",
+  "pinyin": "Shènzhì yǒudiǎn hǎowán."
+},
+{
+  "vietnamese": "Lúc dọn dẹp các bạn có nghe nhạc không?",
+  "chinese": "你们打扫时听歌吗？",
+  "pinyin": "Nǐmen dǎsǎo shí tīng gē ma?"
+},
+{
+  "vietnamese": "Các bạn thích nghe nhạc gì?",
+  "chinese": "喜欢听什么歌？",
+  "pinyin": "Xǐhuan tīng shénme gē?"
+},
+{
+  "vietnamese": "Lần sau có thể kể cho mình nghe.",
+  "chinese": "下次可以告诉我。",
+  "pinyin": "Xiàcì kěyǐ gàosu wǒ."
+},
+{
+  "vietnamese": "Mình lại đi lau phòng bếp.",
+  "chinese": "我再去拖厨房。",
+  "pinyin": "Wǒ zài qù tuō chúfáng."
+},
+{
+  "vietnamese": "Sàn bếp rất nhiều dầu mỡ.",
+  "chinese": "厨房的地很油。",
+  "pinyin": "Chúfáng de dì hěn yóu."
+},
+{
+  "vietnamese": "Dùng thêm chút nước rửa bát.",
+  "chinese": "用了点洗洁精。",
+  "pinyin": "Yòng le diǎn xǐjiéjīng."
+},
+{
+  "vietnamese": "Tổng cộng đã lau hai lần.",
+  "chinese": "一共拖了两次。",
+  "pinyin": "Yígòng tuō le liǎng cì."
+},
+{
+  "vietnamese": "Cuối cùng cũng lau sạch rồi.",
+  "chinese": "终于拖干净了。",
+  "pinyin": "Zhōngyú tuō gānjìng le."
+},
+{
+  "vietnamese": "Nhà bếp thật sự rất bẩn.",
+  "chinese": "厨房真的很脏。",
+  "pinyin": "Chúfáng zhēnde hěn zāng."
+},
+{
+  "vietnamese": "Trong bồn rửa toàn là bát.",
+  "chinese": "水槽里全是碗。",
+  "pinyin": "Shuǐcáo lǐ quán shì wǎn."
+},
+{
+  "vietnamese": "Có bát ăn mì từ hôm qua.",
+  "chinese": "有昨天吃面的碗。",
+  "pinyin": "Yǒu zuótiān chī miàn de wǎn."
+},
+{
+  "vietnamese": "Có đĩa nấu ăn từ hôm kia.",
+  "chinese": "前天做菜的盘子。",
+  "pinyin": "Qiántiān zuò cài de pánzi."
+},
+{
+  "vietnamese": "Đã lỡ tổng vệ sinh hôm nay.",
+  "chinese": "既然今天大扫除。",
+  "pinyin": "Jìrán jīntiān dàsǎochú."
+},
+{
+  "vietnamese": "Dứt khoát rửa bát luôn vậy.",
+  "chinese": "干脆把碗也洗了。",
+  "pinyin": "Gāncuì bǎ wǎn yě xǐ le."
+},
+{
+  "vietnamese": "Mình đeo găng tay vào.",
+  "chinese": "我戴上手套。",
+  "pinyin": "Wǒ dài shàng shǒutào."
+},
+{
+  "vietnamese": "Mở vòi nước ra.",
+  "chinese": "打开水龙头。",
+  "pinyin": "Dǎkāi shuǐlóngtóu."
+},
+{
+  "vietnamese": "Nước chảy rào rào.",
+  "chinese": "水哗哗地流。",
+  "pinyin": "Shuǐ huāhuā de liú."
+},
+{
+  "vietnamese": "Bóp một ít nước rửa bát.",
+  "chinese": "挤了一点洗洁精。",
+  "pinyin": "Jǐ le yìdiǎn xǐjiéjīng."
+},
+{
+  "vietnamese": "Bắt đầu nghiêm túc rửa bát.",
+  "chinese": "开始认真刷碗。",
+  "pinyin": "Kāishǐ rènzhēn shuā wǎn."
+},
+{
+  "vietnamese": "Bắt đầu nghiêm túc rửa bát.",
+  "chinese": "开始认真刷碗。",
+  "pinyin": "Kāishǐ rènzhēn shuā wǎn."
+},
+
+{
+  "vietnamese": "Rửa từng cái một.",
+  "chinese": "刷了一个又一个。",
+  "pinyin": "Shuā le yí ge yòu yí ge."
+},
+{
+  "vietnamese": "Những bong bóng màu trắng.",
+  "chinese": "白色的泡泡。",
+  "pinyin": "Báisè de pàopào."
+},
+{
+  "vietnamese": "Bay tới bay lui trong nước.",
+  "chinese": "在水里飞来飞去。",
+  "pinyin": "Zài shuǐ lǐ fēi lái fēi qù."
+},
+{
+  "vietnamese": "Nhìn bát bẩn trở nên sạch sẽ.",
+  "chinese": "看着脏碗变干净。",
+  "pinyin": "Kànzhe zāng wǎn biàn gānjìng."
+},
+{
+  "vietnamese": "Thực ra vô cùng xả stress.",
+  "chinese": "其实非常解压。",
+  "pinyin": "Qíshí fēicháng jiěyā."
+},
+{
+  "vietnamese": "Dùng nước sạch xả lại.",
+  "chinese": "用清水冲洗。",
+  "pinyin": "Yòng qīngshuǐ chōngxǐ."
+},
+{
+  "vietnamese": "Cất bát gọn gàng.",
+  "chinese": "把碗放好。",
+  "pinyin": "Bǎ wǎn fàng hǎo."
+},
+{
+  "vietnamese": "Phòng bếp cũng trở nên mới mẻ.",
+  "chinese": "厨房也变新了。",
+  "pinyin": "Chúfáng yě biàn xīn le."
+},
+{
+  "vietnamese": "Mình nhìn ra cửa sổ.",
+  "chinese": "我看了看窗户。",
+  "pinyin": "Wǒ kàn le kàn chuānghu."
+},
+{
+  "vietnamese": "Trên kính cũng có bụi.",
+  "chinese": "玻璃上也有灰。",
+  "pinyin": "Bōli shàng yě yǒu huī."
+},
+{
+  "vietnamese": "Không nhìn rõ cây bên ngoài.",
+  "chinese": "看不清外面的树。",
+  "pinyin": "Kàn bù qīng wàimiàn de shù."
+},
+{
+  "vietnamese": "Thế này sao được chứ.",
+  "chinese": "这怎么行呢。",
+  "pinyin": "Zhè zěnme xíng ne."
+},
+{
+  "vietnamese": "Mình tìm một tờ giấy.",
+  "chinese": "我找来一张纸。",
+  "pinyin": "Wǒ zhǎo lái yì zhāng zhǐ."
+},
+{
+  "vietnamese": "Xịt một chút nước lau kính.",
+  "chinese": "喷点玻璃水。",
+  "pinyin": "Pēn diǎn bōlishuǐ."
+},
+{
+  "vietnamese": "Dùng sức lau cửa kính.",
+  "chinese": "用力擦玻璃。",
+  "pinyin": "Yònglì cā bōli."
+},
+{
+  "vietnamese": "Lau từ trên xuống dưới.",
+  "chinese": "从上擦到下。",
+  "pinyin": "Cóng shàng cā dào xià."
+},
+{
+  "vietnamese": "Cánh tay mỏi nhừ.",
+  "chinese": "胳膊都酸了。",
+  "pinyin": "Gēbo dōu suān le."
+},
+{
+  "vietnamese": "Nhưng hiệu quả rất tốt.",
+  "chinese": "但是效果很好。",
+  "pinyin": "Dànshì xiàoguǒ hěn hǎo."
+},
+{
+  "vietnamese": "Kính trở nên rất trong suốt.",
+  "chinese": "玻璃变得很透明。",
+  "pinyin": "Bōli biàn de hěn tòumíng."
+},
+{
+  "vietnamese": "Mình có thể nhìn thấy rõ ràng.",
+  "chinese": "我可以清楚看到。",
+  "pinyin": "Wǒ kěyǐ qīngchǔ kàndào."
+},
+{
+  "vietnamese": "Trời xanh bên ngoài.",
+  "chinese": "外面的蓝天。",
+  "pinyin": "Wàimiàn de lántiān."
+},
+{
+  "vietnamese": "Và cả mây trắng.",
+  "chinese": "还有白色的云。",
+  "pinyin": "Hái yǒu báisè de yún."
+},
+{
+  "vietnamese": "Ánh nắng chiếu vào.",
+  "chinese": "阳光照进来。",
+  "pinyin": "Yángguāng zhào jìnlái."
+},
+{
+  "vietnamese": "Trong nhà càng thêm ấm áp.",
+  "chinese": "屋里更加温暖了。",
+  "pinyin": "Wū lǐ gèngjiā wēnnuǎn le."
+},
+{
+  "vietnamese": "Trong nhà càng thêm ấm áp.",
+  "chinese": "屋里更加温暖了。",
+  "pinyin": "Wū lǐ gèngjiā wēnnuǎn le."
+},
+
+{
+  "vietnamese": "Lúc dọn dẹp sofa.",
+  "chinese": "在打扫沙发时。",
+  "pinyin": "Zài dǎsǎo shāfā shí."
+},
+{
+  "vietnamese": "Mình có một phát hiện lớn.",
+  "chinese": "我有个大发现。",
+  "pinyin": "Wǒ yǒu ge dà fāxiàn."
+},
+{
+  "vietnamese": "Các bạn đoán xem là gì?",
+  "chinese": "你们猜是什么？",
+  "pinyin": "Nǐmen cāi shì shénme?"
+},
+{
+  "vietnamese": "Trong khe hở của sofa.",
+  "chinese": "在沙发缝隙里。",
+  "pinyin": "Zài shāfā fèngxì lǐ."
+},
+{
+  "vietnamese": "Mình tìm thấy một trăm tệ.",
+  "chinese": "我找到一百块钱。",
+  "pinyin": "Wǒ zhǎodào yībǎi kuài qián."
+},
+{
+  "vietnamese": "Mình kinh ngạc luôn.",
+  "chinese": "我都惊呆了。",
+  "pinyin": "Wǒ dōu jīngdāi le."
+},
+{
+  "vietnamese": "Không biết rơi từ khi nào.",
+  "chinese": "不知道何时掉的。",
+  "pinyin": "Bù zhīdào héshí diào de."
+},
+{
+  "vietnamese": "Có thể là nửa năm trước.",
+  "chinese": "可能是半年前。",
+  "pinyin": "Kěnéng shì bàn nián qián."
+},
+{
+  "vietnamese": "Đúng là bất ngờ ngoài ý muốn.",
+  "chinese": "这是意外惊喜。",
+  "pinyin": "Zhè shì yìwài jīngxǐ."
+},
+{
+  "vietnamese": "Dọn dẹp lại còn có thể kiếm tiền.",
+  "chinese": "打扫还能赚钱。",
+  "pinyin": "Dǎsǎo hái néng zhuànqián."
+},
+{
+  "vietnamese": "Thế này cũng quá tuyệt rồi.",
+  "chinese": "这也太棒了吧。",
+  "pinyin": "Zhè yě tài bàng le ba."
+},
+{
+  "vietnamese": "Còn tìm thấy chìa khóa của mình.",
+  "chinese": "还找到我的钥匙。",
+  "pinyin": "Hái zhǎodào wǒ de yàoshi."
+},
+{
+  "vietnamese": "Đã tìm nó rất lâu.",
+  "chinese": "找了它很久。",
+  "pinyin": "Zhǎo le tā hěn jiǔ."
+},
+{
+  "vietnamese": "Hóa ra rơi ở sau ghế sofa.",
+  "chinese": "原来掉在沙发后。",
+  "pinyin": "Yuánlái diào zài shāfā hòu."
+},
+{
+  "vietnamese": "Còn phát hiện một tấm ảnh.",
+  "chinese": "还发现一张照片。",
+  "pinyin": "Hái fāxiàn yì zhāng zhàopiàn."
+},
+{
+  "vietnamese": "Bức ảnh hồi nhỏ.",
+  "chinese": "小时候的照片。",
+  "pinyin": "Xiǎoshíhou de zhàopiàn."
+},
+{
+  "vietnamese": "Mình ở trong tấm ảnh.",
+  "chinese": "照片里的我。",
+  "pinyin": "Zhàopiàn lǐ de wǒ."
+},
+{
+  "vietnamese": "Cười vô cùng vui vẻ.",
+  "chinese": "笑得非常开心。",
+  "pinyin": "Xiào de fēicháng kāixīn."
+},
+{
+  "vietnamese": "Dọn phòng thật sự rất đáng.",
+  "chinese": "打扫房间很值得。",
+  "pinyin": "Dǎsǎo fángjiān hěn zhíde."
+},
+{
+  "vietnamese": "Không chỉ căn phòng sạch sẽ.",
+  "chinese": "不仅房间干净了。",
+  "pinyin": "Bùjǐn fángjiān gānjìng le."
+},
+{
+  "vietnamese": "Mà còn có thể tìm lại đồ đạc.",
+  "chinese": "还能找回东西。",
+  "pinyin": "Hái néng zhǎo huí dōngxi."
+},
+{
+  "vietnamese": "Mà còn có thể tìm lại đồ đạc.",
+  "chinese": "还能找回东西。",
+  "pinyin": "Hái néng zhǎo huí dōngxi."
+},
+
+{
+  "vietnamese": "Đã trôi qua một tiếng đồng hồ.",
+  "chinese": "已经过了一小时。",
+  "pinyin": "Yǐjīng guò le yì xiǎoshí."
+},
+{
+  "vietnamese": "Nhìn đồng hồ đeo tay.",
+  "chinese": "看了看手表。",
+  "pinyin": "Kàn le kàn shǒubiǎo."
+},
+{
+  "vietnamese": "Đã hai giờ chiều rồi.",
+  "chinese": "下午两点了。",
+  "pinyin": "Xiàwǔ liǎng diǎn le."
+},
+{
+  "vietnamese": "Bụng mình đói rồi.",
+  "chinese": "我肚子饿了。",
+  "pinyin": "Wǒ dùzi è le."
+},
+{
+  "vietnamese": "Rất muốn gọi đồ ăn ngoài.",
+  "chinese": "好想点外卖。",
+  "pinyin": "Hǎo xiǎng diǎn wàimài."
+},
+{
+  "vietnamese": "Nhưng vẫn chưa được.",
+  "chinese": "但是还不行。",
+  "pinyin": "Dànshì hái bùxíng."
+},
+{
+  "vietnamese": "Phòng vẫn chưa dọn xong.",
+  "chinese": "房间还没弄好。",
+  "pinyin": "Fángjiān hái méi nòng hǎo."
+},
+{
+  "vietnamese": "Bước cuối cùng.",
+  "chinese": "最后一步。",
+  "pinyin": "Zuìhòu yí bù."
+},
+{
+  "vietnamese": "Chính là vứt rác.",
+  "chinese": "就是扔垃圾。",
+  "pinyin": "Jiùshì rēng lājī."
+},
+{
+  "vietnamese": "Rác thực sự quá nhiều rồi.",
+  "chinese": "垃圾实在太多了。",
+  "pinyin": "Lājī shízài tài duō le."
+},
+{
+  "vietnamese": "Tìm ba cái túi lớn.",
+  "chinese": "找了三个大袋子。",
+  "pinyin": "Zhǎo le sān ge dà dàizi."
+},
+{
+  "vietnamese": "Mới gói hết được chúng.",
+  "chinese": "才把它们装完。",
+  "pinyin": "Cái bǎ tāmen zhuāng wán."
+},
+{
+  "vietnamese": "Một túi là giấy lộn.",
+  "chinese": "一袋是废纸。",
+  "pinyin": "Yí dài shì fèizhǐ."
+},
+{
+  "vietnamese": "Một túi là chai lọ.",
+  "chinese": "一袋是瓶子。",
+  "pinyin": "Yí dài shì píngzi."
+},
+{
+  "vietnamese": "Một túi là vỏ đồ ăn vặt.",
+  "chinese": "一袋是零食袋。",
+  "pinyin": "Yí dài shì língshídài."
+},
+{
+  "vietnamese": "Túi nặng quá đi mất.",
+  "chinese": "袋子好重啊。",
+  "pinyin": "Dàizi hǎo zhòng a."
+},
+{
+  "vietnamese": "Dùng hết cả sức lực.",
+  "chinese": "用尽了力气。",
+  "pinyin": "Yòng jìn le lìqi."
+},
+{
+  "vietnamese": "Xách chúng ra ngoài cửa.",
+  "chinese": "把它们提到门外。",
+  "pinyin": "Bǎ tāmen tí dào mén wài."
+},
+{
+  "vietnamese": "Lát nữa đem xuống lầu.",
+  "chinese": "等会拿去楼下。",
+  "pinyin": "Děnghuì ná qù lóuxià."
+},
+{
+  "vietnamese": "Bây giờ có thể rửa tay rồi.",
+  "chinese": "现在可以洗手了。",
+  "pinyin": "Xiànzài kěyǐ xǐshǒu le."
+},
+{
+  "vietnamese": "Rửa thật sạch sẽ.",
+  "chinese": "洗得干干净净。",
+  "pinyin": "Xǐ de gāngānjìngjìng."
+},
+{
+  "vietnamese": "Lại rửa mặt một chút.",
+  "chinese": "又洗了洗脸。",
+  "pinyin": "Yòu xǐ le xǐ liǎn."
+},
+{
+  "vietnamese": "Nước vô cùng mát mẻ.",
+  "chinese": "水非常凉快。",
+  "pinyin": "Shuǐ fēicháng liángkuài."
+},
+{
+  "vietnamese": "Giúp mình tỉnh táo hẳn.",
+  "chinese": "让我很清醒。",
+  "pinyin": "Ràng wǒ hěn qīngxǐng."
+},
+{
+  "vietnamese": "Giúp mình tỉnh táo hẳn.",
+  "chinese": "让我很清醒。",
+  "pinyin": "Ràng wǒ hěn qīngxǐng."
+},
+
+{
+  "vietnamese": "Lấy khăn lau khô mặt.",
+  "chinese": "拿毛巾擦干脸。",
+  "pinyin": "Ná máojīn cā gān liǎn."
+},
+{
+  "vietnamese": "Từ từ đi bộ về phòng.",
+  "chinese": "慢慢走回房间。",
+  "pinyin": "Mànmàn zǒu huí fángjiān."
+},
+{
+  "vietnamese": "Đứng ở giữa căn phòng.",
+  "chinese": "站在房间中间。",
+  "pinyin": "Zhàn zài fángjiān zhōngjiān."
+},
+{
+  "vietnamese": "Hít một hơi thật sâu.",
+  "chinese": "深吸了一口气。",
+  "pinyin": "Shēn xī le yì kǒu qì."
+},
+{
+  "vietnamese": "Không khí đều ngọt ngào.",
+  "chinese": "空气都是甜的。",
+  "pinyin": "Kōngqì dōu shì tián de."
+},
+{
+  "vietnamese": "Không có bất kỳ mùi lạ nào.",
+  "chinese": "没有任何异味。",
+  "pinyin": "Méiyǒu rènhé yìwèi."
+},
+{
+  "vietnamese": "Căn phòng trở nên thật sáng sủa.",
+  "chinese": "房间变得好明亮。",
+  "pinyin": "Fángjiān biàn de hǎo míngliàng."
+},
+{
+  "vietnamese": "Ánh nắng chiếu vào trong nhà.",
+  "chinese": "阳光照进屋里。",
+  "pinyin": "Yángguāng zhào jìn wū lǐ."
+},
+{
+  "vietnamese": "Chiếu lên sàn nhà sạch sẽ.",
+  "chinese": "照在干净地板上。",
+  "pinyin": "Zhào zài gānjìng dìbǎn shàng."
+},
+{
+  "vietnamese": "Cảm giác này quá đỗi tuyệt vời.",
+  "chinese": "这感觉太美好了。",
+  "pinyin": "Zhè gǎnjué tài měihǎo le."
+},
+{
+  "vietnamese": "Thậm chí không dám tin.",
+  "chinese": "甚至不敢相信。",
+  "pinyin": "Shènzhì bù gǎn xiāngxìn."
+},
+{
+  "vietnamese": "Đây là phòng của mình sao?",
+  "chinese": "这是我的房间吗？",
+  "pinyin": "Zhè shì wǒ de fángjiān ma?"
+},
+{
+  "vietnamese": "Sạch sẽ giống hệt như khách sạn.",
+  "chinese": "像酒店一样干净。",
+  "pinyin": "Xiàng jiǔdiàn yíyàng gānjìng."
+},
+{
+  "vietnamese": "Không dám ngồi lên giường.",
+  "chinese": "不敢坐在床上。",
+  "pinyin": "Bù gǎn zuò zài chuáng shàng."
+},
+{
+  "vietnamese": "Sợ sẽ làm bừa nó ra.",
+  "chinese": "怕弄乱了它。",
+  "pinyin": "Pà nòng luàn le tā."
+},
+{
+  "vietnamese": "Mình từ từ.",
+  "chinese": "我慢慢地。",
+  "pinyin": "Wǒ mànmàn de."
+},
+{
+  "vietnamese": "Ngồi lên trên chiếc ghế.",
+  "chinese": "坐在椅子上。",
+  "pinyin": "Zuò zài yǐzi shàng."
+},
+{
+  "vietnamese": "Ngắm nhìn mọi thứ xung quanh.",
+  "chinese": "看着周围一切。",
+  "pinyin": "Kànzhe zhōuwéi yíqiè."
+},
+{
+  "vietnamese": "Cảm giác thành tựu dâng trào.",
+  "chinese": "成就感满满。",
+  "pinyin": "Chéngjiùgǎn mǎnmǎn."
+},
+{
+  "vietnamese": "Tất cả những vất vả.",
+  "chinese": "所有的辛苦。",
+  "pinyin": "Suǒyǒu de xīnkǔ."
+},
+{
+  "vietnamese": "Tất cả những mồ hôi.",
+  "chinese": "所有的汗水。",
+  "pinyin": "Suǒyǒu de hànshuǐ."
+},
+{
+  "vietnamese": "Đều là xứng đáng.",
+  "chinese": "都是值得的。",
+  "pinyin": "Dōu shì zhíde de."
+}
+]
